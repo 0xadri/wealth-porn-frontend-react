@@ -1,8 +1,8 @@
 # WealthPorn App: Frontend in `React`
 
-WealthPorn tries to illustrate gather interesting data about wealth inequality.
+WealthPorn showcases interesting data and charts about wealth inequality.
 
-This frontend consumes a REST API - Backend in `Node`, `Express` and `MongoDB`.
+This frontend consumes a REST API Backend in `Node`, `Express` and `MongoDB` ([link](https://github.com/0xadri/wealth-porn-backend-restapi)).
 
 # 🚀 Try It Live 🚀
 
