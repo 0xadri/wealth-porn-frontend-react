@@ -11,7 +11,6 @@ import {
   Tooltip,
   Legend,
 } from "chart.js";
-import "chartjs-adapter-moment";
 
 // Import utilities
 import { formatValue } from "../utils/Utils";
