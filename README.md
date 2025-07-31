@@ -4,7 +4,7 @@ WealthPorn showcases interesting data and charts about wealth inequality.
 
 This frontend consumes a REST API.
 
-This REST API is implemented in this (["WealthPorn Backend" project](https://github.com/0xadri/wealth-porn-backend-restapi)) in `Node`, `Express` and `MongoDB`.
+This REST API is implemented in this ["WealthPorn Backend" project](https://github.com/0xadri/wealth-porn-backend-restapi) in `Node`, `Express` and `MongoDB`.
 
 However, this very "WealthPorn Frontend" project does include mock data (json files) so you can run it on its own.
 

@@ -9,6 +9,7 @@ import Banner from "./partials/Banner";
 import "./css/style.css";
 
 // Import pages
+import LdnTopWealthDistro from "./pages/LdnTopWealthDistro";
 import UkTopWealthDistro from "./pages/UkTopWealthDistro";
 import UkBottomWealthDistro from "./pages/UkBottomWealthDistro";
 import UkTopHundredWealthiest from "./pages/UkTopHundredWealthiest";
@@ -53,6 +54,11 @@ function App() {
                 element={<UkGiniCoefficient />}
               />
               <Route path="/play" element={<PlayPage />} />
+              <Route
+                exact
+                path="/ldn-top-wealth-distro"
+                element={<LdnTopWealthDistro />}
+              />
             </Routes>
           </main>
 
