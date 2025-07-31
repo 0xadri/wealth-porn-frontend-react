@@ -1,0 +1,293 @@
+{
+  "message": "Fetched successfully. Yay!",
+  "giniCoefficients": [
+    {
+      "_id": "68373c61f859939acc193eae",
+      "year": 1977,
+      "gini_coefficient": 27.5,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eaf",
+      "year": 1978,
+      "gini_coefficient": 27.6,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eb0",
+      "year": 1979,
+      "gini_coefficient": 27.8,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eb1",
+      "year": 1980,
+      "gini_coefficient": 28,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eb2",
+      "year": 1981,
+      "gini_coefficient": 28.3,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eb3",
+      "year": 1982,
+      "gini_coefficient": 28.6,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eb4",
+      "year": 1983,
+      "gini_coefficient": 28.9,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eb5",
+      "year": 1984,
+      "gini_coefficient": 29.2,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eb6",
+      "year": 1985,
+      "gini_coefficient": 29.5,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eb7",
+      "year": 1986,
+      "gini_coefficient": 29.8,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eb8",
+      "year": 1987,
+      "gini_coefficient": 30.1,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eb9",
+      "year": 1988,
+      "gini_coefficient": 30.4,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eba",
+      "year": 1989,
+      "gini_coefficient": 30.7,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ebb",
+      "year": 1990,
+      "gini_coefficient": 31,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ebc",
+      "year": 1991,
+      "gini_coefficient": 31.3,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ebd",
+      "year": 1992,
+      "gini_coefficient": 31.6,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ebe",
+      "year": 1993,
+      "gini_coefficient": 31.9,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ebf",
+      "year": 1994,
+      "gini_coefficient": 32.2,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ec0",
+      "year": 1995,
+      "gini_coefficient": 32.5,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ec1",
+      "year": 1996,
+      "gini_coefficient": 32.8,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ec2",
+      "year": 1997,
+      "gini_coefficient": 33.1,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ec3",
+      "year": 1998,
+      "gini_coefficient": 33.4,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ec4",
+      "year": 1999,
+      "gini_coefficient": 33.7,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ec5",
+      "year": 2000,
+      "gini_coefficient": 34,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ec6",
+      "year": 2001,
+      "gini_coefficient": 34.3,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ec7",
+      "year": 2002,
+      "gini_coefficient": 34.6,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ec8",
+      "year": 2003,
+      "gini_coefficient": 34.9,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ec9",
+      "year": 2004,
+      "gini_coefficient": 35.2,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eca",
+      "year": 2005,
+      "gini_coefficient": 35.5,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ecb",
+      "year": 2006,
+      "gini_coefficient": 35.8,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ecc",
+      "year": 2007,
+      "gini_coefficient": 36.1,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ecd",
+      "year": 2008,
+      "gini_coefficient": 36.4,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ece",
+      "year": 2009,
+      "gini_coefficient": 36.7,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ecf",
+      "year": 2010,
+      "gini_coefficient": 37,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ed0",
+      "year": 2011,
+      "gini_coefficient": 37.3,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ed1",
+      "year": 2012,
+      "gini_coefficient": 37.6,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ed2",
+      "year": 2013,
+      "gini_coefficient": 37.9,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ed3",
+      "year": 2014,
+      "gini_coefficient": 38.2,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ed4",
+      "year": 2015,
+      "gini_coefficient": 38.5,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ed5",
+      "year": 2016,
+      "gini_coefficient": 38.8,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ed6",
+      "year": 2017,
+      "gini_coefficient": 39.1,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ed7",
+      "year": 2018,
+      "gini_coefficient": 39.4,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ed8",
+      "year": 2019,
+      "gini_coefficient": 39.7,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193ed9",
+      "year": 2020,
+      "gini_coefficient": 40,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193eda",
+      "year": 2021,
+      "gini_coefficient": 40.3,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193edb",
+      "year": 2022,
+      "gini_coefficient": 40.6,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193edc",
+      "year": 2023,
+      "gini_coefficient": 40.9,
+      "source": "ONS"
+    },
+    {
+      "_id": "68373c61f859939acc193edd",
+      "year": 2024,
+      "gini_coefficient": 41.2,
+      "source": "ONS"
+    }
+  ]
+}

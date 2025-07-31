@@ -1,0 +1,86 @@
+{
+  "message": "Fetched successfully. Yay!",
+  "bottomWealthDistro": [
+    {
+      "_id": "6846e1b3c81772632b742b1b",
+      "notes": "Very low wealth, often close to zero or negative due to debts",
+      "year": 2024,
+      "combined_wealth_bln_gbp": 10,
+      "population_bottom_percent": "10",
+      "combined_wealth_percent": 0.0741,
+      "source": "EqualityTrust and ONS"
+    },
+    {
+      "_id": "6846e1b3c81772632b742b1c",
+      "notes": "Limited assets, many with little or no property or savings",
+      "year": 2024,
+      "combined_wealth_bln_gbp": 50,
+      "population_bottom_percent": "20",
+      "combined_wealth_percent": 0.3704,
+      "source": "EqualityTrust and ONS"
+    },
+    {
+      "_id": "6846e1b3c81772632b742b1d",
+      "notes": "Slow wealth accumulation, significant inequality",
+      "year": 2024,
+      "combined_wealth_bln_gbp": 150,
+      "population_bottom_percent": "30",
+      "combined_wealth_percent": 1.1111,
+      "source": "EqualityTrust and ONS"
+    },
+    {
+      "_id": "6846e1b3c81772632b742b1e",
+      "notes": "Still far less than the wealth of the top 10%",
+      "year": 2024,
+      "combined_wealth_bln_gbp": 350,
+      "population_bottom_percent": "40",
+      "combined_wealth_percent": 2.5926,
+      "source": "EqualityTrust and ONS"
+    },
+    {
+      "_id": "6846e1b3c81772632b742b1f",
+      "notes": "Half the population combined—less than 10% owns individually",
+      "year": 2024,
+      "combined_wealth_bln_gbp": 700,
+      "population_bottom_percent": "50",
+      "combined_wealth_percent": 5.1852,
+      "source": "EqualityTrust and ONS"
+    },
+    {
+      "_id": "6846e1b3c81772632b742b20",
+      "notes": "Wealth grows slowly but concentrated at the top",
+      "year": 2024,
+      "combined_wealth_bln_gbp": 1100,
+      "population_bottom_percent": "60",
+      "combined_wealth_percent": 8.1481,
+      "source": "EqualityTrust and ONS"
+    },
+    {
+      "_id": "6846e1b3c81772632b742b21",
+      "notes": "Majority of wealth concentrated in upper percentiles",
+      "year": 2024,
+      "combined_wealth_bln_gbp": 3000,
+      "population_bottom_percent": "80",
+      "combined_wealth_percent": 22.2222,
+      "source": "EqualityTrust and ONS"
+    },
+    {
+      "_id": "6846e1b3c81772632b742b22",
+      "notes": "Rest of the wealth after top 10%",
+      "year": 2024,
+      "combined_wealth_bln_gbp": 6000,
+      "population_bottom_percent": "90",
+      "combined_wealth_percent": 44.4444,
+      "source": "EqualityTrust and ONS"
+    },
+    {
+      "_id": "6846e1b3c81772632b742b23",
+      "notes": "Total estimated wealth in the UK",
+      "year": 2024,
+      "combined_wealth_bln_gbp": 13500,
+      "population_bottom_percent": "100",
+      "combined_wealth_percent": 100,
+      "source": "EqualityTrust and ONS"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "message": "Fetched successfully. Yay!",
+  "topWealthDistro": [
+    {
+      "_id": "683845f5ac4b3d3cd721e2e2",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 4.44,
+      "combined_wealth_bln_gbp": 600,
+      "population_top_percent": "0.0001",
+      "notes": "Ultra-ultra-ultra high net worth individuals (~67 people) with the absolute largest fortunes"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2e3",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 8.89,
+      "combined_wealth_bln_gbp": 1200,
+      "population_top_percent": "0.001",
+      "notes": "Ultra-ultra high net worth individuals (~670 people) with the biggest fortunes"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2e4",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 16.3,
+      "combined_wealth_bln_gbp": 2200,
+      "population_top_percent": "0.01",
+      "notes": "Ultra-high net worth individuals (~6,700 people) controlling a massive share of wealth"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2e5",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 25.93,
+      "combined_wealth_bln_gbp": 3500,
+      "population_top_percent": "0.1",
+      "notes": "Includes billionaires and multi-millionaires (~67,000 people)"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2e6",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 35.56,
+      "combined_wealth_bln_gbp": 4800,
+      "population_top_percent": "1",
+      "notes": "1% owning approx. 35-40% of total wealth (~670,000 people)"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2e7",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 40,
+      "combined_wealth_bln_gbp": 5400,
+      "population_top_percent": "5",
+      "notes": "Expanded wealthy elite controlling over 40% of wealth"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2e8",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 44.44,
+      "combined_wealth_bln_gbp": 6000,
+      "population_top_percent": "10",
+      "notes": "Holds more than half of the UK's total wealth"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2e9",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 55.56,
+      "combined_wealth_bln_gbp": 7500,
+      "population_top_percent": "20",
+      "notes": "Controls about 75% of total wealth"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2ea",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 62.96,
+      "combined_wealth_bln_gbp": 8500,
+      "population_top_percent": "30",
+      "notes": ""
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2eb",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 70.37,
+      "combined_wealth_bln_gbp": 9500,
+      "population_top_percent": "40",
+      "notes": ""
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2ec",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 76.3,
+      "combined_wealth_bln_gbp": 10300,
+      "population_top_percent": "50",
+      "notes": "Half the population owns this much"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2ed",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 81.48,
+      "combined_wealth_bln_gbp": 11000,
+      "population_top_percent": "60",
+      "notes": ""
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2ee",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 87.41,
+      "combined_wealth_bln_gbp": 11800,
+      "population_top_percent": "80",
+      "notes": "Majority of wealth concentrated here"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2ef",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 90.37,
+      "combined_wealth_bln_gbp": 12200,
+      "population_top_percent": "90",
+      "notes": "The richest 10% control the remainder"
+    },
+    {
+      "_id": "683845f5ac4b3d3cd721e2f0",
+      "source": "EqualityTrust and ONS",
+      "year": 2024,
+      "combined_wealth_percent": 100,
+      "combined_wealth_bln_gbp": 13500,
+      "population_top_percent": "100",
+      "notes": "Total estimated wealth in the UK"
+    }
+  ]
+}

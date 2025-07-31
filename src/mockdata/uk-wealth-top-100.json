@@ -1,0 +1,311 @@
+{
+  "message": "Fetched successfully. Yay!",
+  "topHundredRichest": [
+    {
+      "_id": "684702acc81772632b742b2b",
+      "net_worth_bln_gbp": 35.304,
+      "name": "Gopi Hinduja and family",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b2c",
+      "net_worth_bln_gbp": 26.873,
+      "name": "David and Simon Reuben and family",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b2d",
+      "net_worth_bln_gbp": 25.725,
+      "name": "Sir Leonard Blavatnik",
+      "citizenship": "United States & United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b2e",
+      "net_worth_bln_gbp": 20.8,
+      "name": "Sir James Dyson and family",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b2f",
+      "net_worth_bln_gbp": 20.121,
+      "name": "Idan Ofer",
+      "citizenship": "Israel"
+    },
+    {
+      "_id": "684702acc81772632b742b30",
+      "net_worth_bln_gbp": 17.746,
+      "name": "Guy, George, Alannah and Galen Weston and family",
+      "citizenship": "Canada & United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b31",
+      "net_worth_bln_gbp": 17.046,
+      "name": "Sir Jim Ratcliffe",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b32",
+      "net_worth_bln_gbp": 15.444,
+      "name": "Lakshmi Mittal and family",
+      "citizenship": "India"
+    },
+    {
+      "_id": "684702acc81772632b742b33",
+      "net_worth_bln_gbp": 13.683,
+      "name": "John Fredriksen and family",
+      "citizenship": "Cyprus and Norway"
+    },
+    {
+      "_id": "684702acc81772632b742b34",
+      "net_worth_bln_gbp": 12.54,
+      "name": "Igor Bukhman and Dmitry Bukhman",
+      "citizenship": "Russia and Israel"
+    },
+    {
+      "_id": "684702acc81772632b742b35",
+      "net_worth_bln_gbp": 12.514,
+      "name": "Kirsten Rausing and Jörn Rausing",
+      "citizenship": "Sweden"
+    },
+    {
+      "_id": "684702acc81772632b742b36",
+      "net_worth_bln_gbp": 12,
+      "name": "Michael Platt",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b37",
+      "net_worth_bln_gbp": 10.09,
+      "name": "Charlene de Carvalho-Heineken and Michel de Carvalho",
+      "citizenship": "Netherlands"
+    },
+    {
+      "_id": "684702acc81772632b742b38",
+      "net_worth_bln_gbp": 9.884,
+      "name": "Hugh Grosvenor, 7th Duke of Westminster and Grosvenor family",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b39",
+      "net_worth_bln_gbp": 9.45,
+      "name": "Lord Bamford and family",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b3a",
+      "net_worth_bln_gbp": 9.45,
+      "name": "Barnaby and Merlin Swire and family",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b3b",
+      "net_worth_bln_gbp": 9.188,
+      "name": "Marit, Lisbet, Sigrid and Hans Rausing",
+      "citizenship": "Sweden"
+    },
+    {
+      "_id": "684702acc81772632b742b3c",
+      "net_worth_bln_gbp": 9.168,
+      "name": "Carrie and François Perrodo and family",
+      "citizenship": "France / United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b3d",
+      "net_worth_bln_gbp": 8.1,
+      "name": "Chris Hohn",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b3e",
+      "net_worth_bln_gbp": 7.937,
+      "name": "Nicky Oppenheimer and family",
+      "citizenship": "United Kingdom / South Africa"
+    },
+    {
+      "_id": "684702acc81772632b742b3f",
+      "net_worth_bln_gbp": 7.467,
+      "name": "Denise and Peter Coates",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b40",
+      "net_worth_bln_gbp": 7,
+      "name": "Nik Storonsky",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b41",
+      "net_worth_bln_gbp": 6.5,
+      "name": "Stephen Fitzpatrick",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b42",
+      "net_worth_bln_gbp": 6.3,
+      "name": "Alex Gerko",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b43",
+      "net_worth_bln_gbp": 4.21,
+      "name": "John Reece",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b44",
+      "net_worth_bln_gbp": 4.21,
+      "name": "Andy Currie",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b45",
+      "net_worth_bln_gbp": 3.81,
+      "name": "Tom Morris",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b46",
+      "net_worth_bln_gbp": 3.65,
+      "name": "John Coates",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b47",
+      "net_worth_bln_gbp": 3.4,
+      "name": "Laurence Graff & family",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b48",
+      "net_worth_bln_gbp": 3.12,
+      "name": "Michael Ashley",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b49",
+      "net_worth_bln_gbp": 3.1,
+      "name": "Ian and Richard Livingstone",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b4a",
+      "net_worth_bln_gbp": 3,
+      "name": "Peter Hargreaves",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b4b",
+      "net_worth_bln_gbp": 2.9,
+      "name": "Joe Lewis",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b4c",
+      "net_worth_bln_gbp": 2.8,
+      "name": "Simon Nixon",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b4d",
+      "net_worth_bln_gbp": 2.6,
+      "name": "Sir Philip and Lady Green",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b4e",
+      "net_worth_bln_gbp": 2.5,
+      "name": "David and Frederick Barclay",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b4f",
+      "net_worth_bln_gbp": 2.4,
+      "name": "Richard Branson",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b50",
+      "net_worth_bln_gbp": 2.2,
+      "name": "Alan Howard",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b51",
+      "net_worth_bln_gbp": 2.1,
+      "name": "Clive Calder",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b52",
+      "net_worth_bln_gbp": 2,
+      "name": "John Armitage",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b53",
+      "net_worth_bln_gbp": 1.9,
+      "name": "Daniel Ek",
+      "citizenship": "Sweden"
+    },
+    {
+      "_id": "684702acc81772632b742b54",
+      "net_worth_bln_gbp": 1.8,
+      "name": "Mark and Lindy O’Hare",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b55",
+      "net_worth_bln_gbp": 0.5,
+      "name": "Jon and Susie Seaton",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b56",
+      "net_worth_bln_gbp": 0.5,
+      "name": "David and Victoria Beckham",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b57",
+      "net_worth_bln_gbp": 0.446,
+      "name": "Lewis Hamilton",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b58",
+      "net_worth_bln_gbp": 0.425,
+      "name": "Georgia Toffolo and James Watt",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b59",
+      "net_worth_bln_gbp": 0.37,
+      "name": "Ed Sheeran",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b5a",
+      "net_worth_bln_gbp": 0.14,
+      "name": "Euan Blair",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b5b",
+      "net_worth_bln_gbp": 0.115,
+      "name": "Dua Lipa",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b5c",
+      "net_worth_bln_gbp": 0.1,
+      "name": "Daniel Radcliffe",
+      "citizenship": "United Kingdom"
+    },
+    {
+      "_id": "684702acc81772632b742b5d",
+      "net_worth_bln_gbp": 0.1,
+      "name": "Harry Kane",
+      "citizenship": "United Kingdom"
+    }
+  ]
+}

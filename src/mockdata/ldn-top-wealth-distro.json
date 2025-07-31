@@ -1,0 +1,113 @@
+{
+  "message": "Fetched successfully. Yay!",
+  "ldnTopWealthDistro": [
+    {
+      "_id": "68386f18ac4b3d3cd721e309",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "0.0001",
+      "combined_wealth_percent": 10,
+      "combined_wealth_bln_gbp": 200,
+      "comment": "Ultra-ultra-ultra high net worth individuals (~9 people)"
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e30a",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "0.001",
+      "combined_wealth_percent": 20,
+      "combined_wealth_bln_gbp": 400,
+      "comment": "Ultra-ultra high net worth individuals (~90 people)"
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e30b",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "0.01",
+      "combined_wealth_percent": 30,
+      "combined_wealth_bln_gbp": 600,
+      "comment": "Ultra-high net worth individuals (~900 people)"
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e30c",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "0.1",
+      "combined_wealth_percent": 38,
+      "combined_wealth_bln_gbp": 760,
+      "comment": "Top 0.1% of wealth holders"
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e30d",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "1",
+      "combined_wealth_percent": 45,
+      "combined_wealth_bln_gbp": 900,
+      "comment": "Top 1% (approx. 9,000 people)"
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e30e",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "5",
+      "combined_wealth_percent": 65,
+      "combined_wealth_bln_gbp": 1300,
+      "comment": "Top 5% including asset-rich property owners"
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e30f",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "10",
+      "combined_wealth_percent": 75,
+      "combined_wealth_bln_gbp": 1500,
+      "comment": "Top 10% of Londoners by wealth"
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e310",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "20",
+      "combined_wealth_percent": 85,
+      "combined_wealth_bln_gbp": 1700,
+      "comment": "Top 20% including affluent professionals"
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e311",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "30",
+      "combined_wealth_percent": 90,
+      "combined_wealth_bln_gbp": 1800,
+      "comment": ""
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e312",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "40",
+      "combined_wealth_percent": 94,
+      "combined_wealth_bln_gbp": 1880,
+      "comment": ""
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e313",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "50",
+      "combined_wealth_percent": 97,
+      "combined_wealth_bln_gbp": 1940,
+      "comment": "Top half of Londoners own almost all wealth"
+    },
+    {
+      "_id": "68386f18ac4b3d3cd721e314",
+      "source": "chatgpt guesstimates",
+      "year": 2024,
+      "population_top_percent": "100",
+      "combined_wealth_percent": 100,
+      "combined_wealth_bln_gbp": 2000,
+      "comment": "Full population"
+    }
+  ]
+}

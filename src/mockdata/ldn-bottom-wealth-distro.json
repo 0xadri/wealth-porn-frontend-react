@@ -1,0 +1,115 @@
+{
+  "message": "Fetched successfully. Yay!",
+  "ldnBottomWealthDistro": [
+    {
+      "_id": "683843a2ac4b3d3cd721e2be",
+      "source": "mix",
+      "source_details": "Trust for London / ONS (low wealth in bottom deciles)",
+      "year": 2024,
+      "population_bottom_percent": "10",
+      "combined_wealth_percent": 0,
+      "combined_wealth_bln_gbp": 0,
+      "comment": "Very limited or negative net wealth"
+    },
+    {
+      "_id": "683843a2ac4b3d3cd721e2bf",
+      "source": "mix",
+      "source_details": "Trust for London / ONS",
+      "year": 2024,
+      "population_bottom_percent": "20",
+      "combined_wealth_percent": 0.1,
+      "combined_wealth_bln_gbp": 2,
+      "comment": "Mostly low asset ownership"
+    },
+    {
+      "_id": "683843a2ac4b3d3cd721e2c0",
+      "source": "mix",
+      "source_details": "Trust for London / ONS",
+      "year": 2024,
+      "population_bottom_percent": "30",
+      "combined_wealth_percent": 0.5,
+      "combined_wealth_bln_gbp": 10,
+      "comment": "Some property ownership, low savings"
+    },
+    {
+      "_id": "683843a2ac4b3d3cd721e2c1",
+      "source": "mix",
+      "source_details": "Trust for London",
+      "year": 2024,
+      "population_bottom_percent": "40",
+      "combined_wealth_percent": 1.5,
+      "combined_wealth_bln_gbp": 30,
+      "comment": "Growing middle-low wealth"
+    },
+    {
+      "_id": "683843a2ac4b3d3cd721e2c2",
+      "source": "mix",
+      "source_details": "Trust for London / IFS",
+      "year": 2024,
+      "population_bottom_percent": "50",
+      "combined_wealth_percent": 4,
+      "combined_wealth_bln_gbp": 80,
+      "comment": "Median wealth still quite low"
+    },
+    {
+      "_id": "683843a2ac4b3d3cd721e2c3",
+      "source": "mix",
+      "source_details": "Trust for London",
+      "year": 2024,
+      "population_bottom_percent": "60",
+      "combined_wealth_percent": 8,
+      "combined_wealth_bln_gbp": 160,
+      "comment": "Increasing asset accumulation"
+    },
+    {
+      "_id": "683843a2ac4b3d3cd721e2c4",
+      "source": "mix",
+      "source_details": "Trust for London",
+      "year": 2024,
+      "population_bottom_percent": "70",
+      "combined_wealth_percent": 14,
+      "combined_wealth_bln_gbp": 280,
+      "comment": "Majority of middle-income households"
+    },
+    {
+      "_id": "683843a2ac4b3d3cd721e2c5",
+      "source": "mix",
+      "source_details": "Trust for London",
+      "year": 2024,
+      "population_bottom_percent": "80",
+      "combined_wealth_percent": 22,
+      "combined_wealth_bln_gbp": 440,
+      "comment": "Moderate wealth concentration"
+    },
+    {
+      "_id": "683843a2ac4b3d3cd721e2c6",
+      "source": "mix",
+      "source_details": "Trust for London",
+      "year": 2024,
+      "population_bottom_percent": "90",
+      "combined_wealth_percent": 36,
+      "combined_wealth_bln_gbp": 720,
+      "comment": "Wealth grows but still overshadowed by top 10%"
+    },
+    {
+      "_id": "683843a2ac4b3d3cd721e2c7",
+      "source": "mix",
+      "source_details": "Inferred from Trust for London and wealth inequality studies",
+      "year": 2024,
+      "population_bottom_percent": "95",
+      "combined_wealth_percent": 48,
+      "combined_wealth_bln_gbp": 960,
+      "comment": "Near half of total wealth held here"
+    },
+    {
+      "_id": "683843a2ac4b3d3cd721e2c8",
+      "source": "mix",
+      "source_details": "Aggregate of all",
+      "year": 2024,
+      "population_bottom_percent": "100",
+      "combined_wealth_percent": 100,
+      "combined_wealth_bln_gbp": 2000,
+      "comment": "Total wealth of all households"
+    }
+  ]
+}
