@@ -9,6 +9,7 @@ import Banner from "./partials/Banner";
 import "./css/style.css";
 
 // Import pages
+import LdnRealEstateCapitalDistro from "./pages/LdnRealEstateCapitalDistro";
 import LdnTopWealthDistro from "./pages/LdnTopWealthDistro";
 import LdnBottomWealthDistro from "./pages/LdnBottomWealthDistro";
 import UkTopWealthDistro from "./pages/UkTopWealthDistro";
@@ -64,6 +65,11 @@ function App() {
                 exact
                 path="/ldn-bottom-wealth-distro"
                 element={<LdnBottomWealthDistro />}
+              />
+              <Route
+                exact
+                path="/ldn-housing-ownership"
+                element={<LdnRealEstateCapitalDistro />}
               />
             </Routes>
           </main>
