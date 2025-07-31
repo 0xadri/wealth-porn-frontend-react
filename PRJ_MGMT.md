@@ -11,19 +11,20 @@
 
 ### PROG
 
-- none
+- FE: Mobile First
+- FE: Responsive UX: mobile, tablet & desktop friendly
 
 ### TODO
 
 - Consume RESTful API: show data in "chart section" (chart.js) for "UK Top Wealth Distro"
 - FE: data viz inspiration https://www.reddit.com/r/interestingasfuck/comments/1d7vbj5/wealth_inequality_in_america_visualized/
-- FE: Mobile First
-- FE: Responsive UX: mobile, tablet & desktop friendly
-- FE: Send suggestion for more data
+- FE: Form/link to send suggestion for more data
+- Mock REST data so others can easily build and play with project
+- Docs: add info re Mock data
 
 ### SHOULD
 
-- FE: data: try D3.js
+- FE: data library: add dashboards with D3.js
 
 ### COULD
 
