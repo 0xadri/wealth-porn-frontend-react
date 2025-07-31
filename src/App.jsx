@@ -10,6 +10,7 @@ import "./css/style.css";
 
 // Import pages
 import LdnTopWealthDistro from "./pages/LdnTopWealthDistro";
+import LdnBottomWealthDistro from "./pages/LdnBottomWealthDistro";
 import UkTopWealthDistro from "./pages/UkTopWealthDistro";
 import UkBottomWealthDistro from "./pages/UkBottomWealthDistro";
 import UkTopHundredWealthiest from "./pages/UkTopHundredWealthiest";
@@ -58,6 +59,11 @@ function App() {
                 exact
                 path="/ldn-top-wealth-distro"
                 element={<LdnTopWealthDistro />}
+              />
+              <Route
+                exact
+                path="/ldn-bottom-wealth-distro"
+                element={<LdnBottomWealthDistro />}
               />
             </Routes>
           </main>

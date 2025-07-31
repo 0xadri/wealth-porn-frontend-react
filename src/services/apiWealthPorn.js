@@ -24,6 +24,14 @@ async function apiFetch(endpoint, options = {}, retry = true) {
   return await response.json();
 }
 
+export const getLdnBottomWealthDistro = async () => {
+  const endpoint = '/uk-data/ldn-bottom-wealth-distro';
+  const options = {
+    method: 'GET'
+  }
+  return apiFetch(endpoint, options);
+}
+
 export const getLdnTopWealthDistro = async () => {
   const endpoint = '/uk-data/ldn-top-wealth-distro';
   const options = {

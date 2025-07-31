@@ -1,19 +1,19 @@
 import { useState, useEffect } from "react";
-import { getUkTopWealthDistro } from "../services/apiWealthPorn";
-import UkTopWealthDistro_Table from "../chart/UkTopWealthDistro_Table";
-import UkTopWealthDistro_Bar from "../chart/UkTopWeatlhDistro_Bar";
+import { getLdnBottomWealthDistro } from "../services/apiWealthPorn";
+import LdnBottomWealthDistro_Table from "../chart/LdnBottomWealthDistro_Table";
+import LdnBottomWealthDistro_Bar from "../chart/LdnBottomWealthDistro_Bar";
 
-function UkTopWealthDistro() {
+function LdnBottomWealthDistro() {
   const [isLoading, setIsLoading] = useState(false);
   const [errorMsg, setErrorMsg] = useState();
-  const [ukTopWealthDistroData, setUkTopWealthDistroData] = useState();
+  const [ldnBottomWealthDistroData, setLdnBottomWealthDistroData] = useState();
 
   useEffect(() => {
     const loadData = async () => {
       try {
-        const data = await getUkTopWealthDistro();
+        const data = await getLdnBottomWealthDistro();
         console.log(data);
-        setUkTopWealthDistroData(data);
+        setLdnBottomWealthDistroData(data);
       } catch (err) {
         setErrorMsg(err.message);
       } finally {
@@ -30,7 +30,7 @@ function UkTopWealthDistro() {
         {/* Title */}
         <div className="mb-4 sm:mb-0">
           <h1 className="text-2xl md:text-3xl text-gray-800 dark:text-gray-100 font-bold">
-            UK Top Wealth Distribution in 2024
+            London Bottom Wealth Distribution in 2024
           </h1>
         </div>
       </div>
@@ -40,15 +40,15 @@ function UkTopWealthDistro() {
           Source: EqualityTrust and ONS.
         </h4>
         {/* Cards */}
-        {!isLoading && ukTopWealthDistroData && (
+        {!isLoading && ldnBottomWealthDistroData && (
           <>
             {/* Bar */}
-            <UkTopWealthDistro_Bar
-              distroData={ukTopWealthDistroData.topWealthDistro}
+            <LdnBottomWealthDistro_Bar
+              distroData={ldnBottomWealthDistroData.ldnBottomWealthDistro}
             />
             {/* Table  */}
-            <UkTopWealthDistro_Table
-              distroData={ukTopWealthDistroData.topWealthDistro}
+            <LdnBottomWealthDistro_Table
+              distroData={ldnBottomWealthDistroData.ldnBottomWealthDistro}
             />
           </>
         )}
@@ -57,4 +57,4 @@ function UkTopWealthDistro() {
   );
 }
 
-export default UkTopWealthDistro;
+export default LdnBottomWealthDistro;
